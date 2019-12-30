@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "683227487839-5me60l027t114ughqhmrovkp8rad30o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.grupo2",
+            "certificate_hash": "09d23cb57486fe131a479adb6a9ba393606c18ba"
+          }
+        },
+        {
           "client_id": "683227487839-mq8bc04obcbmd0hbvdpg8otbt3l2snol.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
