@@ -16,7 +16,7 @@ import com.google.firebase.messaging.RemoteMessage;
 import java.util.Random;
 
 public class MyFirebaseInstanceService extends FirebaseMessagingService {
-
+    //Ctrl + O
     @Override
     public void onNewToken(String s) {
         super.onNewToken(s);
